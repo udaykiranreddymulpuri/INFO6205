@@ -7,6 +7,7 @@ import java.util.function.UnaryOperator;
 
 /**
  * Class which is able to time the running of functions.
+ * asg
  */
 public class Timer {
 
