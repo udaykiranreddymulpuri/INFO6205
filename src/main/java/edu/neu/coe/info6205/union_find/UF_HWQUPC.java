@@ -161,7 +161,7 @@ public class UF_HWQUPC implements UF {
 	 * Used only by testing code
 	 *
 	 * @param i the component
-	 * @return the parent of the component
+	 * @return the parent of the componenteee
 	 */
 	private int getParent(int i) {
 		return parent[i];
