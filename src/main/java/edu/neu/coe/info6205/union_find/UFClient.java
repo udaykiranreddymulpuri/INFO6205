@@ -6,7 +6,7 @@ package edu.neu.coe.info6205.union_find;
 import java.util.Random;
 
 /**
- * @author udaykiranreddy
+ * @author udaykiranreddymulpuri
  *
  */
 public class UFClient {

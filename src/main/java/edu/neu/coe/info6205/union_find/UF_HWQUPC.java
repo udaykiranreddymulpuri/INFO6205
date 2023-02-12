@@ -185,7 +185,7 @@ public class UF_HWQUPC implements UF {
 			updateHeight(i, j);
 		}
 
-		// END
+		
 	}
 
 	/**
